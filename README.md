@@ -9,7 +9,7 @@ foi nos apresentado os beneficios
 - gerenciabilidade
 e também foi explicado o sistema de SLA e quanto do tempo é gasto no mesmo durante aquele período.
 
-- Resumo Lab 2 -
+ - Resumo Lab 2 -
 
 Nesse segundo modulo foi nos apresentado os tipos de serviço da nuvem
 ou seja IaaS, PaaS e SaaS sendo respectivamente
